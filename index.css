@@ -1,0 +1,13 @@
+body{
+	background-color: #000000;
+}
+*{
+	color: #00cc00;
+	font-family: "Consolas", monospace;
+}
+#tell-me-what-to-think{
+	font-size: 6px;
+}
+#no-wait-dont{
+	font-size: 5px;
+}
