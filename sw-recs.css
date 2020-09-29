@@ -1,1 +1,7 @@
-#bruh
+body{
+	background-color: #000000;
+}
+*{
+	color: #00cc00;
+	font-family: "Consolas", monospace;
+}
