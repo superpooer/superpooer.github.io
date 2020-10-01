@@ -7,6 +7,7 @@ body{
 }
 #entry-para{
 	position:absolute;
-	left:200px;
-	width:800px;
+	top:60px;
+	left:100px;
+	width:600px;
 }
