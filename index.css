@@ -8,6 +8,7 @@ body{
 #entry-para{
 	position:absolute;
 	top:60px;
-	left:100px;
+	margin:auto;
 	width:600px;
+	height:auto;
 }
