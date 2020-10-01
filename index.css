@@ -6,5 +6,7 @@ body{
 	font-family: "Consolas", monospace;
 }
 #entry-para{
+	position:absolute;
 	left:200px;
 	width:800px;
+}
